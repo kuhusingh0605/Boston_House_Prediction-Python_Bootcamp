@@ -17,6 +17,7 @@ In this project, I have:
 
 ➡️ Managed the environment using a Python Virtual Environment in VS Code 💻
 
+
 📚 Technologies & Tools Used
 
 🔧 Tool/Library	   💡 Purpose
@@ -40,7 +41,8 @@ In this project, I have:
 🏗️ Project Structure
 
 Boston_House_Prediction-Python_Bootcamp/
-│
+
+
 ├── Dataset/                 # Dataset files (from Kaggle)
 
 ├── HTML_CSS/                # Webpage files (HTML & CSS)
@@ -60,6 +62,7 @@ The Linear Regression Model was successfully trained to predict Boston house pri
 A simple HTML & CSS-based front-end is provided to display the project details in a user-friendly manner! 🌟
 
 📝 How to Run the Project
+
 1.) Clone this repository:
 
 git clone https://github.com/kuhusingh0605/Boston_House_Prediction-Python_Bootcamp.git
@@ -83,6 +86,7 @@ pip install -r requirements.txt
 python boston_house_prediction.py
 
 🔗 Connect with Me: 
+
 🌐 LinkedIn: www.linkedin.com/in/kuhu-singh-6b9867329
 
 📧 kuhusingh0605@gmail.com
