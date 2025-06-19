@@ -5,10 +5,15 @@ Welcome to my Boston House Price Prediction project! This repository contains a 
 In this project, I have:
 
 ➡️ Retrieved the dataset from Kaggle 📂
+
 ➡️ Preprocessed and cleaned the data using Pandas and NumPy 🧹
+
 ➡️ Visualized data features and relationships using Matplotlib and Seaborn 📈
+
 ➡️ Built and trained a Linear Regression Model using Scikit-learn 🤖
+
 ➡️ Designed a basic web interface with HTML & CSS 🌐
+
 ➡️ Managed the environment using a Python Virtual Environment in VS Code 💻
 
 📚 Technologies & Tools Used
@@ -16,12 +21,19 @@ In this project, I have:
 🔧 Tool/Library	   💡 Purpose
 
 🐍 Python : Core programming language
+
 🐼	Pandas : Data manipulation & analysis
+
 🔢 NumPy : 	Numerical operations
+
 📊 Matplotlib : 	Data visualization (plots)
+
 🎨 Seaborn :	Advanced statistical graphics
+
 🤖 Scikit-learn : 	Machine Learning (Linear Regression)
+
 🌐 HTML & CSS : 	Front-end webpage development
+
 📝 VS Code : 	Code editor & environment setup
 
 🏗️ Project Structure
@@ -29,10 +41,15 @@ In this project, I have:
 Boston_House_Prediction-Python_Bootcamp/
 │
 ├── Dataset/                 # Dataset files (from Kaggle)
+
 ├── HTML_CSS/                # Webpage files (HTML & CSS)
+
 ├── boston_house_prediction.py  # Python model script
+
 ├── environment.yml / requirements.txt  # Environment setup files
+
 ├── README.md               # Project documentation
+
 └── output/                 # Model output files (if any)
 
 📈 Results
@@ -66,4 +83,5 @@ python boston_house_prediction.py
 
 🔗 Connect with Me: 
 🌐 LinkedIn: www.linkedin.com/in/kuhu-singh-6b9867329
+
 📧 kuhusingh0605@gmail.com
